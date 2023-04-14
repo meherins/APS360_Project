@@ -1,5 +1,3 @@
 # APS360_Project
-
-link to see Alex_Net features: https://drive.google.com/drive/folders/1Xf1iaHOsHCAURWpiGcI2QE4lcN_4A_5p?usp=share_link
-
-link to dataset: https://drive.google.com/drive/folders/1m2eNEuP9wDT-vuawVCfjyKGhGO_zIK1i?usp=share_link
+Link to recipes csvs, dataset, and recipe classification code: https://drive.google.com/drive/folders/1DBysj9WlsOT9b67rAZCxm233EgggfHAp?usp=sharing 
+Link to Ingredients dataset and Data Augmentation: https://drive.google.com/drive/folders/12BGE5IFvhnZijN89Tovx8rsTHzaBhiEj?usp=sharing
